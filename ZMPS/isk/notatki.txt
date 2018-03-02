@@ -1,0 +1,7 @@
+snr - signal noise ratio
+snr = Ps/Pn - stsunek sygna³u do szumu (noise)
+SMR = 10 log_10(Ps/Pn) [dB]
+0dB - Ps = Pn
+10dB - Ps = 10Pn
+20dB - Ps = 100Pn
+-10dB - Ps = 0.1Pn
